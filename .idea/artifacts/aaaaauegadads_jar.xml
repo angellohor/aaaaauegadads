@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="aaaaauegadads:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/aaaaauegadads_jar</output-path>
+    <root id="archive" name="aaaaauegadads.jar">
+      <element id="module-output" name="aaaaauegadads" />
+    </root>
+  </artifact>
+</component>
